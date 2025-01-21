@@ -1,0 +1,6 @@
+@SecureCodeWarrior_AISP_HostAddress = http://localhost:5088
+
+GET {{SecureCodeWarrior_AISP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
